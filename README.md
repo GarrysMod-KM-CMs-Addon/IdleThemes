@@ -1,7 +1,6 @@
 An implementation of the Far Cry 3 idle themes we all know and love.
 
-Credits to Ubisoft Montreal for the theme from Far Cry 3,
-and to Sraigius for ripping the theme from the game files and uploading it to YouTube.
+Credits to Ubisoft Montreal for the themes from Far Cry 3, and to Sraigius for ripping the themes from the game files and uploading it to YouTube.
 
 A Moment Of Loneliness: https://youtu.be/_yjonDLdDxs?si=Y2e-NUVe5Khye3-t<br>
 Lone Traveler: https://youtu.be/lmHsAedZqkE?si=SvsaOeDMucKyLPwp<br>
